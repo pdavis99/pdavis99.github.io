@@ -1,4 +1,4 @@
-<h1>Hi, I'm Patrice! <br/><a href="https://github.com/pdavis99.github.io">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Programmer</a></a></h1>
+<h1>Hi, I'm Patrice! <br/><a href="https://www.linkedin.com/in/patrice-davis-948817165/">Data Analyst</a>, <a href="https://www.linkedin.com/in/patrice-davis-948817165/">Programmer</a></a></h1>
 
 <h2>👨‍💻Data Analyst Projects:</h2>
 
