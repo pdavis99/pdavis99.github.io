@@ -5,7 +5,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>HTML, CSS, and Javascript Practice</b>
-  - [HTML,CSS and Javascript practice]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/pdavis99/HTML-Practice)
+  - [HTML,CSS and Javascript practice](https://github.com/pdavis99/HTML-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
