@@ -8,9 +8,10 @@
   - [Pygame practice (in progress)](https://github.com/pdavis99/videogame)
 
 <h2>Certifications:</h2>
-- <b></b>https://www.credly.com/users/patrice-davis.620737a4
-<br>
-- <b></b>https://www.coursera.org/account/accomplishments/certificate/Z5RE9DLC4Z6A
+<ul>
+  <li></b>https://www.credly.com/users/patrice-davis.620737a4</li>
+  <li>https://www.coursera.org/account/accomplishments/certificate/Z5RE9DLC4Z6A</li>
+</ul>
 
 <h2> 🤳 Connect with me:</h2>
 
