@@ -9,6 +9,7 @@
 
 <h2>Certifications:</h2>
 https://www.credly.com/users/patrice-davis.620737a4
+<br>
 https://www.coursera.org/account/accomplishments/certificate/Z5RE9DLC4Z6A
 
 <h2> 🤳 Connect with me:</h2>
