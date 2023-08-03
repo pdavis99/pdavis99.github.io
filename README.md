@@ -1,24 +1,29 @@
-<h1>Hi, I'm Patrice! <br/><a href="https://www.linkedin.com/in/patrice-davis-948817165/"></a> <a href="https://www.linkedin.com/in/patrice-davis-948817165/">Programmer</a></a></h1>
-
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>HTML, CSS, and Javascript Practice</b>
-  - [HTML,CSS and Javascript practice](https://github.com/pdavis99/HTML-Practice)
-- <b>Creating a videogame using pygames (Python, pygame)</b>
-  - [Pygame practice (in progress)](https://github.com/pdavis99/videogame)
-
-<h2>Certifications:</h2>
-<ul>
-  <li></b>https://www.credly.com/users/patrice-davis.620737a4</li>
-  <li>https://www.coursera.org/account/accomplishments/certificate/Z5RE9DLC4Z6A</li>
-</ul>
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="PatriceDavis | LinkedIn" width="62px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/patrice-davis-948817165?trk=public_profile_browsemap
-
+<!DOCTYPE Html>
+<html>
+  <body>
+  <h1>Hi, I'm Patrice! <br/><a href="https://www.linkedin.com/in/patrice-davis-948817165/"></a> <a href="https://www.linkedin.com/in/patrice-davis-948817165/">Programmer</a></a></h1>
+  
+  <h2>👨‍💻 Software Development Projects:</h2>
+  <div id= "test"> </div>
+  
+  - <b>HTML, CSS, and Javascript Practice</b>
+    - [HTML,CSS and Javascript practice](https://github.com/pdavis99/HTML-Practice)
+  - <b>Creating a videogame using pygames (Python, pygame)</b>
+    - [Pygame practice (in progress)](https://github.com/pdavis99/videogame)
+  
+  <h2>Certifications:</h2>
+  <ul>
+    <li> <a href= "https://www.credly.com/users/patrice-davis.620737a4"> "Credly Certifications"</a> </li>
+    <li><a href= "https://www.coursera.org/account/accomplishments/certificate/Z5RE9DLC4Z6A">"Google Front End Developer"</a> </li>
+  </ul>
+  
+  <h2> 🤳 Connect with me:</h2>
+  
+  [<img align="left" alt="PatriceDavis | LinkedIn" width="62px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  
+  [linkedin]: https://www.linkedin.com/in/patrice-davis-948817165?trk=public_profile_browsemap
+</body>
+</html>
 <!--
 **pdavis99/pdavis99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
