@@ -1,7 +1,9 @@
 <!DOCTYPE Html>
 <html>
-  <body>
-  <h1>Hi, I'm Patrice! <br/><a href="https://www.linkedin.com/in/patrice-davis-948817165/"></a> <a href="https://www.linkedin.com/in/patrice-davis-948817165/">Programmer</a></a></h1>
+ <head> 
+  </head>
+    <body>
+    <h1>Hi, I'm Patrice! <br/><a href="https://www.linkedin.com/in/patrice-davis-948817165/"></a> <a href="https://www.linkedin.com/in/patrice-davis-        948817165/">Programmer</a></a></h1>
   
   <h2>👨‍💻 Software Development Projects:</h2>
   <div id= "test"> </div>
@@ -19,7 +21,9 @@
   
   <h2> 🤳 Connect with me:</h2>
   
-  [<img align="left" alt="PatriceDavis | LinkedIn" width="62px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  <a href="www.linkedin.com/in/patrice-davis-948817165?trk=public_profile_browsemap">
+    <img src= "https://www.seekpng.com/png/detail/22-220993_linkedin-logo-size-linkedin-symbol-grey-png.png" alt="Linkedin Logo Size - Linkedin Symbol Grey Png@seekpng.com" align="left" alt="Patrice Davis | LinkedIn" width="62px">
+  </a>
   
   [linkedin]: https://www.linkedin.com/in/patrice-davis-948817165?trk=public_profile_browsemap
 </body>
