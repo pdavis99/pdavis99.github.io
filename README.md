@@ -3,10 +3,9 @@
  <head> 
   </head>
     <body>
-    <h1>Hi, I'm Patrice! <br/><a href="https://www.linkedin.com/in/patrice-davis-948817165/"></a> <a href="https://www.linkedin.com/in/patrice-davis-        948817165/">Programmer</a></a></h1>
+    <h1>Hi, I'm Patrice! <br/><a href="https://www.linkedin.com/in/patrice-davis-948817165/"></a> <a href="https://www.linkedin.com/in/patrice-davis-948817165/">Developer</a></a></h1>
   
   <h2>👨‍💻 Software Development Projects:</h2>
-  <div id= "test"> </div>
   
   - <b>HTML, CSS, and Javascript Practice</b>
     - [HTML,CSS and Javascript practice](https://github.com/pdavis99/HTML-Practice)
