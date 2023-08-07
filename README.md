@@ -1,9 +1,5 @@
-<!DOCTYPE Html>
-<html>
- <head> 
-  </head>
-    <body>
-    <h1>Hi, I'm Patrice! <br/><a href="https://www.linkedin.com/in/patrice-davis-948817165/"></a> <a href="https://www.linkedin.com/in/patrice-davis-948817165/">Developer</a></a></h1>
+
+ <h1>Hi, I'm Patrice! <br/><a href="https://www.linkedin.com/in/patrice-davis-948817165/"></a> <a href="https://www.linkedin.com/in/patrice-davis-948817165/">Developer</a></a></h1>
   
   <h2>👨‍💻 Software Development Projects:</h2>
   
@@ -24,9 +20,6 @@
     <img src= "https://www.seekpng.com/png/detail/22-220993_linkedin-logo-size-linkedin-symbol-grey-png.png" alt="Linkedin Logo Size - Linkedin Symbol Grey Png@seekpng.com" align="left" alt="Patrice Davis | LinkedIn" width="62px"[linkedin]="https://www.linkedin.com/in/patrice-davis-948817165?trk=public_profile_browsemap">
   </a>
   
-  
-</body>
-</html>
 <!--
 **pdavis99/pdavis99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
