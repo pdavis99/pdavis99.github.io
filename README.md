@@ -11,7 +11,6 @@
   <h2>Certifications:</h2>
   <ul>
     <li> <a href= "https://www.credly.com/users/patrice-davis.620737a4"> "Credly Certifications"</a> </li>
-    <li><a href= "https://www.coursera.org/account/accomplishments/certificate/Z5RE9DLC4Z6A">"Google Front End Developer"</a> </li>
   </ul>
   
   <h2> 🤳 Connect with me:</h2>
