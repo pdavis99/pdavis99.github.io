@@ -3,11 +3,15 @@
   
   <h2> Data Analyst Projects:</h2>
   
-  - <b>HTML, CSS, and Javascript Practice</b>
+  - <b>Building Databases Using SQL </b>
     - [HTML,CSS and Javascript practice](https://github.com/pdavis99/HTML-Practice)
-  - <b>Creating a videogame using pygames (Python, pygame)</b>
+  - <b>Using SQL to Extract Data </b>
     - [Pygame practice (in progress)](https://github.com/pdavis99/videogame)
-   
+  - <b>Using Pivot Tables and V-Lookup to Filter Data </b>
+    - [Pygame practice (in progress)](https://github.com/pdavis99/videogame)
+  - <b>Using Tableau to Visualize Data </b>
+    - [Pygame practice (in progress)](https://github.com/pdavis99/videogame)
+      
   <h2> Python Projects :</h2>
   
   <h2>Certifications:</h2>
