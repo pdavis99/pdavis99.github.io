@@ -1,5 +1,5 @@
 
- <h1>Hi, I'm Patrice! <br/><a href="https://www.linkedin.com/in/patrice-davis-948817165/"></a> <a href="https://www.linkedin.com/in/patrice-davis-948817165/">Developer</a></h1>
+ <h1>Hi, I'm Patrice! <br/><a href="https://www.linkedin.com/in/patrice-davis-948817165/"></a> <a href="https://www.linkedin.com/in/patrice-davis-948817165/">Data Analyst</a></h1>
   
   <h2>👨‍💻 Software Development Projects:</h2>
   
