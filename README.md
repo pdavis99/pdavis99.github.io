@@ -1,7 +1,7 @@
 
  <h1>Hi, I'm Patrice! <br/><a href="https://www.linkedin.com/in/patrice-davis-948817165/"></a> <a href="https://www.linkedin.com/in/patrice-davis-948817165/">Data Analyst</a></h1>
   
-  <h2>👨‍💻 Software Development Projects:</h2>
+  <h2> Data Analyst Projects:</h2>
   
   - <b>HTML, CSS, and Javascript Practice</b>
     - [HTML,CSS and Javascript practice](https://github.com/pdavis99/HTML-Practice)
