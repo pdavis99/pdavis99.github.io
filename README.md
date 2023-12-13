@@ -7,6 +7,8 @@
     - [HTML,CSS and Javascript practice](https://github.com/pdavis99/HTML-Practice)
   - <b>Creating a videogame using pygames (Python, pygame)</b>
     - [Pygame practice (in progress)](https://github.com/pdavis99/videogame)
+   
+  <h2> Python Projects :</h2>
   
   <h2>Certifications:</h2>
   <ul>
