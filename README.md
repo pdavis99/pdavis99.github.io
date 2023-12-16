@@ -5,6 +5,8 @@
   
   - <b>Building Databases Using SQL </b>
     - [HTML,CSS and Javascript practice](https://github.com/pdavis99/HTML-Practice)
+  - <b>Web Scraping </b>
+    - [HTML,CSS and Javascript practice](https://github.com/pdavis99/HTML-Practice)
   - <b>Using SQL to Extract Data </b>
     - [Pygame practice (in progress)](https://github.com/pdavis99/videogame)
   - <b>Using Pivot Tables and V-Lookup to Filter Data </b>
