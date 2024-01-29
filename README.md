@@ -1,21 +1,15 @@
 
  <h1>Hi, I'm Patrice! <br/><a href="https://www.linkedin.com/in/patrice-davis-948817165/"></a> <a href="https://www.linkedin.com/in/patrice-davis-948817165/">Data Analyst</a></h1>
   
-  <h2> Data Analyst Projects:</h2>
+  <h2> Data Analysis Projects:</h2>
   
-  - <b>Building Databases Using SQL </b>
-    - [HTML,CSS and Javascript practice](https://github.com/pdavis99/HTML-Practice)
-  - <b>Web Scraping </b>
-    - [HTML,CSS and Javascript practice](https://github.com/pdavis99/HTML-Practice)
-  - <b>Using SQL to Extract Data </b>
-    - [Pygame practice (in progress)](https://github.com/pdavis99/videogame)
-  - <b>Using Pivot Tables and V-Lookup to Filter Data </b>
-    - [Pygame practice (in progress)](https://github.com/pdavis99/videogame)
-  - <b>Using Tableau to Visualize Data </b>
-    - [Pygame practice (in progress)](https://github.com/pdavis99/videogame)
+  - <b> SQL </b>
+    - [Building Databases Using SQL]([https://github.com/pdavis99/HTML-Practice](https://github.com/pdavis99/Employee-Analysis-Project-/blob/main/sql/database.sql))
+  - <b>Python </b>
+    - [Data Generation + Connection to SQL Database](https://github.com/pdavis99/HTML-Practice)
+  - <b>Using Power BI to Visualize Data </b>
+    - [Employee Analysis Dashboard]([https://github.com/pdavis99/videogame](https://github.com/pdavis99/Employee-Analysis-Project-/blob/main/Employee%20Analysis%20Dashboard.jpg))
       
-  <h2> Python Projects :</h2>
-  
   <h2>Certifications:</h2>
   <ul>
     <li> <a href= "https://www.credly.com/users/patrice-davis.620737a4"> "Credly Certifications"</a> </li>
