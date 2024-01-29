@@ -1,10 +1,10 @@
 
  <h1>Hi, I'm Patrice! <br/><a href="https://www.linkedin.com/in/patrice-davis-948817165/"></a> <a href="https://www.linkedin.com/in/patrice-davis-948817165/">Data Analyst</a></h1>
   
-  <h2> Data Analysis Projects:</h2>
+  <h2> Data Analysis Skillset:</h2>
   
   - <b> SQL </b>
-    - [Building Databases Using SQL]([https://github.com/pdavis99/HTML-Practice](https://github.com/pdavis99/Employee-Analysis-Project-/blob/main/sql/database.sql)
+    - [Building Databases Using SQL](https://github.com/pdavis99/Employee-Analysis-Project-/blob/main/sql/database.sql)
   - <b>Python </b>
     - [Data Generation + Connection to SQL Database](https://github.com/pdavis99/HTML-Practice)
   - <b>Using Power BI to Visualize Data </b>
