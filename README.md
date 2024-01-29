@@ -6,7 +6,7 @@
   - <b> SQL </b>
     - [Building Databases Using SQL](https://github.com/pdavis99/Employee-Analysis-Project-/blob/main/sql/database.sql)
   - <b>Python </b>
-    - [Data Generation + Connection to SQL Database](https://github.com/pdavis99/HTML-Practice)
+    - [Data Generation + Connection to SQL Database](https://github.com/pdavis99/Employee-Analysis-Project-/blob/main/Service/connection_service.py)
   - <b>Using Power BI to Visualize Data </b>
     - [Employee Analysis Dashboard](https://github.com/pdavis99/videogame](https://github.com/pdavis99/Employee-Analysis-Project-/blob/main/Employee%20Analysis%20Dashboard.jpg))
       
