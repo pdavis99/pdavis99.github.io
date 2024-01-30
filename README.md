@@ -8,7 +8,7 @@
   - <b>Python </b>
     - [Data Generation + Connection to SQL Database](https://github.com/pdavis99/Employee-Analysis-Project-/blob/main/Service/connection_service.py)
   - <b>Using Power BI to Visualize Data </b>
-    - [Employee Analysis Dashboard](https://github.com/pdavis99/videogame](https://github.com/pdavis99/Employee-Analysis-Project-/blob/main/Employee%20Analysis%20Dashboard.jpg))
+    - [Employee Analysis Dashboard](https://github.com/pdavis99/Employee-Analysis-Project-/blob/main/Employee%20Analysis%20Dashboard.jpg)
       
   <h2>Certifications:</h2>
   <ul>
