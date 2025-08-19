@@ -124,7 +124,7 @@
       <a href="#projects">Projects</a>
       <a href="https://www.linkedin.com/in/patrice-davis-948817165/" target="_blank">LinkedIn</a>
       <a href="https://github.com/pdavis99/pdavis99.github.io" target="_blank">GitHub</a>
-      <a href="Your_Resume_Link.pdf" target="_blank">Resume</a>
+      <a href="[Your_Resume_Link.pdf](https://github.com/pdavis99/pdavis99.github.io/blob/main/Patrice_Davis_Resume.pdf)" target="_blank">Resume</a>
     </nav>
   </header>
 
