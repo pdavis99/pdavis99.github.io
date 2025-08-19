@@ -136,24 +136,29 @@ header {
       <h2>Certifications</h2>
       <ul>
         <li>
-          <strong>Front End Development</strong> – Grow with Google on Coursera  
-          <br><em>Issued: Aug 2023</em><br>
-          <a href="https://www.credly.com/badges/Z5RE9DLC4Z6A" target="_blank">View Credential</a>
+          <strong>CIS 303: Scripting Languages (v.3)</strong> - Year Up
+          <br><em>Issued: July 2022</em><br>
+          <a href="https://www.credly.com/badges/e3222f59-cd47-4c3d-88af-83ac1bf57381" target="_blank">View Credential</a>
+        </li>
+        <li>
+          <strong>CIS 103: Introduction to Databases</strong> - Year Up
+          <br><em>Issued: July 2022</em><br>
+          <a href="https://www.credly.com/badges/c77c0401-d185-44d4-b6d4-13ce729d6c2c" target="_blank">View Credential</a>
         </li>
         <li>
           <strong>Google Data Analytics Professional Certificate</strong> – Google  
           <br><em>Issued: Sep 2022</em><br>
-          <a href="https://www.credly.com/your-link" target="_blank">View Credential</a>
+          <a href="https://www.credly.com/badges/8f3a7657-c0fa-4ed8-b833-d93cbcb3d7f7" target="_blank">View Credential</a>
         </li>
         <li>
           <strong>Microsoft Excel (Microsoft 365 & Office 2019)</strong> – Microsoft  
           <br><em>Issued: Feb 2022</em><br>
-          <a href="https://www.credly.com/your-link" target="_blank">View Credential</a>
+          <a href="https://www.credly.com/badges/89ba1666-ee1c-441a-ba1d-d3d75feb3dd7" target="_blank">View Credential</a>
         </li>
         <li>
           <strong>Professional Scrum Master™ I (PSM I)</strong> – Scrum.org  
           <br><em>Issued: Feb 2022</em><br>
-          <a href="https://www.credly.com/your-link" target="_blank">View Credential</a>
+          <a href="https://www.credly.com/badges/ae3131db-e666-4fc7-8584-a3d984a77040" target="_blank">View Credential</a>
         </li>
       </ul>
     </section>
