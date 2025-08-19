@@ -1,5 +1,5 @@
 
-<html lang="en">
+<html>
  
 <style>
   body {
