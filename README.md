@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
   <meta charset="UTF-8"/>
@@ -14,7 +13,7 @@
       color: #222;
       line-height: 1.6;
     }
-header {
+    header {
       background: linear-gradient(135deg, #003d66, #006699);
       color: white;
       padding: 2rem;
@@ -84,6 +83,32 @@ header {
       font-weight: 600;
     }
     .project a:hover {
+      text-decoration: underline;
+    }
+    /* New styling for certifications to match project cards */
+    #certifications ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    #certifications li {
+      background: white;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+      transition: transform 0.2s ease;
+    }
+    #certifications li:hover {
+      transform: translateY(-5px);
+    }
+    #certifications a {
+      color: #007acc;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    #certifications a:hover {
       text-decoration: underline;
     }
     footer {
