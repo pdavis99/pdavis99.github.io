@@ -172,6 +172,4 @@
   <footer>
     © 2025 Patrice Davis • Built with 💻 & ☕ • <a href="mailto:pdavisiaa@gmail.com">Contact Me</a>
   </footer>
-
- </body>
 </html>
