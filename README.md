@@ -132,7 +132,7 @@
     <section id="about">
       <h2>About Me</h2>
       <p>
-        I'm an early-career data analyst with experience in SQL, Python, and Tableau. I enjoy turning messy data into clear, actionable insights and building clean, informative dashboards. Currently open to data analyst roles — particularly those focused on business insights and process improvement.
+        I'm an early-career data analyst with experience in SQL, Python, and Tableau. I enjoy turning messy data into clear, actionable insights and building clean, informative dashboards. Currently open to data analyst roles, particularly those focused on business insights and process improvement.
       </p>
     </section>
 
