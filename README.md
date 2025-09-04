@@ -192,11 +192,14 @@
       <h2>Featured Projects</h2>
 
    <div class="project">
-        <h3>📊 Airbnb Listings Analysis (SQL)</h3>
-        <p><strong>Problem:</strong> Analyzed NYC Airbnb data to identify pricing trends and popular locations.</p>
-        <p><strong>Tools:</strong> PostgreSQL, Excel</p>
-        <p><strong>Process:</strong> Wrote complex SQL queries using joins, window functions, and aggregations. Created summary tables for data visualization.</p>
-        <p><strong>Result:</strong> Identified key drivers of price variation and proposed 3 data-backed recommendations.</p>
+        <h3>📊 Airbnb Pricing Analysis (Python & Pandas)</h3>
+        <p><strong>Problem:</strong> Explored NYC Airbnb listings to understand what drives price differences.</p>
+        <p><strong>Tools:</strong> Python (Pandas, Matplotlib), Jupyter Notebook</p>
+        <p><strong>Process:</strong> - Cleaned and filtered data to focus on rentals under $1,000 and removed outliers.
+- Visualized price distribution by neighborhood and room type using bar charts and box plots.
+- Found that both **location (Manhattan/Brooklyn)** and **room type (entire homes)** significantly influence pricing.
+- Summarized findings in a coherent Markdown narrative, making insights highly accessible.</p>
+        <p><strong>Result:</strong> Identified key drivers of price variation.</p>
         <p><a href="https://github.com/yourusername/airbnb-sql-analysis" target="_blank">View Project on GitHub</a></p>
       </div>
 
