@@ -197,7 +197,7 @@
         <p><strong>Tools:</strong> Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook</p>
         <p><strong>Process:</strong> Cleaned and filtered data, visualized price distribution by neighborhood and room type using bar charts and box plots</p>
         <p><strong>Result:</strong> Identified key drivers of price variation</p>
-        <p><a href="https://github.com/yourusername/airbnb-sql-analysis" target="_blank">View Project on GitHub</a></p>
+        <p><a href="https://pdavis99.github.io/airbnb-pricing-analysis/" target="_blank">View Project on GitHub</a></p>
       </div>
 
    <div class="project">
