@@ -201,11 +201,11 @@
       </div>
 
    <div class="project">
-        <h3>🐍 Web Scraping + EDA on Zillow Rentals</h3>
-        <p><strong>Problem:</strong> Gathered rental price data from Zillow to explore trends in rental markets.</p>
-        <p><strong>Tools:</strong> Python, BeautifulSoup, Pandas, Seaborn</p>
-        <p><strong>Process:</strong> Scraped live data, cleaned and analyzed it, and visualized insights with matplotlib/seaborn.</p>
-        <p><strong>Result:</strong> Highlighted trends in price per sq ft and visualized them by neighborhood.</p>
+        <h3>🐍 Music Streaming Data Analysis(PostgreSQL & Python)</h3>
+        <p><strong>Problem:</strong> Analyze user listening behavior to uncover trends in music consumption and popular songs.</p>
+        <p><strong>Tools:</strong> PostgreSQL, Python (pyodbc, pandas, matplotlib, and seaborn) </p>
+        <p><strong>Process:</strong> Connect to the database, extract and clean tables, merge datasets, perform exploratory analysis, and create visualizations.</p>
+        <p><strong>Result:</strong> Identified top songs, artists, and genres, revealed listening trends, and generated actionable insights for recommendations and marketing.</p>
         <p><a href="https://github.com/yourusername/zillow-rentals-eda" target="_blank">View Project on GitHub</a></p>
       </div>
 
