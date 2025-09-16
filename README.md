@@ -206,7 +206,7 @@
         <p><strong>Tools:</strong> PostgreSQL, Python (pyodbc, pandas, matplotlib, and seaborn) </p>
         <p><strong>Process:</strong> Connect to the database, extract and clean tables, merge datasets, perform exploratory analysis, and create visualizations.</p>
         <p><strong>Result:</strong> Identified top songs, artists, and genres, revealed listening trends, and generated actionable insights for recommendations and marketing.</p>
-        <p><a href="https://github.com/yourusername/zillow-rentals-eda" target="_blank">View Project on GitHub</a></p>
+        <p><a href="https://pdavis99.github.io/music-streaming-analytics/" target="_blank">View Project on GitHub</a></p>
       </div>
 
    <div class="project">
